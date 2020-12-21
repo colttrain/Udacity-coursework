@@ -3,6 +3,7 @@
 Contains most coursework from my Udacity Data Analyst and Data Engineering programs.
 
 ## Technology Overview
+Coming soon...
 
 ## Included Projects/Coursework:
 1. Data Analyst
