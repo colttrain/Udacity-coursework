@@ -8,8 +8,9 @@ Coming soon...
 ## Included Projects/Coursework:
 1. Data Analyst
   - Investigate a Dataset
-  
-Data Analyst project list is incomplete because I wasn't aloud to download some of the projects. I would be happy to explain others projects that aren't listed in case interested.
+  - A_B Testing Results
+  - Data Visualizations
+  - Data Wrangling
 
 2. Data Engineering
   - Data Modeling with Postgres
@@ -17,3 +18,4 @@ Data Analyst project list is incomplete because I wasn't aloud to download some 
   - Redshift DWH
   - Dake Lake with Spark
   - Data Pipelines with Airflow
+
