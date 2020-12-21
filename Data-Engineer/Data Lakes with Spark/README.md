@@ -1,7 +1,7 @@
 # Project: Data Lake
 
 ## Summary:
-The team at Sparkify is constantly evolving and creating new tasks for their Data Engineers. The attached documetation and files will take semi-structured metadata from a myraid of json files that reside in their Data Lake (hosted in S3) and transform them into a set of fact/dimensional tables. This will create a much more streamlined quering process for their analytics team and furthermore create business intelligence for smarted business initatives.
+The team at Sparkify is constantly evolving and creating new tasks for their Data Engineers. The attached documentation and files will take semi-structured metadata from a myraid of json files that reside in their Data Lake (hosted in S3) and transform them into a set of fact/dimensional tables. This will create a much more streamlined quering process for their analytics team and furthermore create business intelligence for smarted business initatives.
 
 ## Files/Functions:
 1. dl.cfg:
