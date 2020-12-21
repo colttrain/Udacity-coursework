@@ -9,4 +9,8 @@ Contains most coursework from my Udacity Data Analyst and Data Engineering progr
   - Investigate a Dataset
 
 2. Data Engineering
-  - Coming soon...
+  - Data Modeling with Postgres
+  - Data Modeling with Cassandra
+  - Redshift DWH
+  - Dake Lake with Spark
+  - Data Pipelines with Airflow
