@@ -45,7 +45,3 @@ The team at Sparkify is constantly evolving and creating new tasks for their Dat
         
     - **To Run etl.py:** In terminal window input: python etl.py  PRESS ENTER
         
-3. Test.ipynb
-    - This Jupyter Notebook contains some code for testing. This will allow to test small batch of data to make sure the ETL pipeline is function properly. 
-
-
