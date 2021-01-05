@@ -3,9 +3,11 @@
 Contains most coursework from my Udacity Data Analyst and Data Engineering programs.
 
 ## Technology Overview
+
 Data Analyst:
 
-Data Engineering:
+Data Engineering:<br>
+Python, SQL, NoSQL, Cassandra, Redshift, AWS (EC2, VPC, IAM, S3, RDS), PostgreSQL, data modeling, ETL development, data warehousing, Airflow, Spark
 
 Coming soon...
 
