@@ -10,8 +10,6 @@ Python - matplotlib, seaborn, numpy, pandas
 Data Engineering:<br>
 Python, SQL, NoSQL, Cassandra, Redshift, AWS (EC2, VPC, IAM, S3, RDS), PostgreSQL, data modeling, ETL development, data warehousing, Airflow, Spark
 
-Coming soon...
-
 ## Included Projects/Coursework:
 1. Data Analyst
   - Investigate a Dataset
